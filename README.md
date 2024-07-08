@@ -1,4 +1,4 @@
-### Jxstin1337 × Software Developer
+### Hey, my name is Justin 👨‍💻
 
 - 21 years old living in Germany
 - currently in apprenticeship at [Sulzer GmbH](https://www.sulzer.de/)
