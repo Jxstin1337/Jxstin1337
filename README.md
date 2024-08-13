@@ -6,6 +6,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxstin1337&theme=algolia)
 
+### Contact
+[![Discord Presence](https://lanyard.cnrad.dev/api/337353546947100683)](https://discord.com/users/337353546947100683)  
+
 <!--
 **Jxstin1337/Jxstin1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
