@@ -7,7 +7,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxstin1337&theme=algolia)
 
 ### Commit Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jxstin1337&theme=github-dark-blue&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&background=050F2C&hide_total_contributions=true)](https://git.io/streak-stats)
+![](https://streak-stats.demolab.com?user=Jxstin1337&theme=github-dark-blue&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&background=050F2C&hide_total_contributions=true)
 
 ### Discord Contact
 [![Discord Presence](https://lanyard.cnrad.dev/api/337353546947100683)](https://discord.com/users/337353546947100683)  
