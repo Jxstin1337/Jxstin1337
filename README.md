@@ -1,6 +1,6 @@
 ### Hey, my name is Justin 👨‍💻
 
-- 21 years old living in Germany
+- 22 years old living in Germany
 - currently in apprenticeship at [Sulzer GmbH](https://www.sulzer.de/)
 - working for [Bruch Studios](https://bruchstudios.de/), [TaskManager](https://tskmngr.com), [Toolbox](https://randomtools.de) and [Snowid](https://www.instagram.com/mc_snowid/)
 
