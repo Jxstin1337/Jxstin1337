@@ -7,7 +7,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxstin1337&theme=algolia)
 
 ### Commit Streak
-[![](https://github-streaks.fiedler.sh?user=Jxstin1337&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github-streaks.fiedler.sh/demo/)
+[![](https://github-streaks.fiedler.sh?user=Jxstin1337&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github-streaks.fiedler.sh/demo/)
 
 ### Discord Contact
 [![Discord Presence](https://lanyard.cnrad.dev/api/337353546947100683)](https://discord.com/users/337353546947100683)  
