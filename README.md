@@ -1,6 +1,6 @@
 ### Hey, my name is Justin 👨‍💻
 
-- 22 years old living in Germany
+- 23 years old living in Germany
 - owner of [Justin Fiedler IT-Dienstleistungen](https://www.fiedler-it.solutions)
 - currently working as it consultant at [Quadrosoft GmbH](https://www.quadrosoft.de/)
 - working for [Bruch Studios](https://bruchstudios.de/), [TaskManager](https://tskmngr.com), [Toolbox](https://randomtools.de) and [Snowid](https://www.instagram.com/mc_snowid/)
