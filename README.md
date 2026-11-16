@@ -1,6 +1,6 @@
 ### Hey, my name is Justin 👨‍💻
 
-- 23 years old living in Germany
+- 24 years old living in Germany
 - chief executive officer at [PrePlay Host](https://preplayhost.com)
 - currently working as it consultant at [Quadrosoft GmbH](https://www.quadrosoft.de/)
 - active for [Bruch Studios](https://bruchstudios.de/), [TaskManager](https://tskmngr.com) and [Minecraft Snowid](https://www.instagram.com/mc_snowid/)
